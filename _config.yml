@@ -95,8 +95,8 @@ content:
     content:
       - layout: left
         title: Programming Languages
-        description:
-        1. Html, css, java
+        description:  
+        1. Html, css, java  
         2. C++, Python, R
         
   - title: Education # Title for the section
