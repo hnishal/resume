@@ -94,7 +94,7 @@ content:
     layout: list 
     content:
       - layout: text
-        content: 
+        content:   
         **Programming Languages**
         - Html, css, java  
         - C++, Python, R
