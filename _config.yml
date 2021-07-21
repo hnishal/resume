@@ -93,10 +93,11 @@ content:
   - title: Skills
     layout: list 
     content:
-      - layout: left
+      - layout: text
         title: Programming Languages
-        description: 1. Html, css, java  
-        2. C++, Python, R
+        content: 
+        - Html, css, java  
+        - C++, Python, R
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
