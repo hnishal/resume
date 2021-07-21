@@ -76,19 +76,19 @@ content:
       
       - layout: top-middle
         title: ecommerce website
-        link: https://github.com/hnishal/website
+        link: https://github.com/hnishal/ecommerce-website
         # link_text: Project Website
         additional_links:
-          - title:  hnishal/website
+          - title:  hnishal/ecommerce-website
             icon: fab fa-github
-            url: https://github.com/hnishal/website
+            url: https://github.com/hnishal/ecommerce-website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is ecommerce website
         description: | # this will include new lines to allow paragraphs
-          This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly frontend
+          This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly interface
 
   - title: Skills
     layout: text
@@ -102,6 +102,10 @@ content:
       - Bootstrap
       - GGplot2(Basics)
       - flask
+      
+      **Database:-**
+      - MongoDB
+      - Oracle
      
         
   - title: Education # Title for the section
