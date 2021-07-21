@@ -91,7 +91,7 @@ content:
           This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly frontend
 
   - title: Skills
-    layout: list 
+    layout: text
     content:
       - layout: text
         content:  | # this will include new lines to allow paragraphs
