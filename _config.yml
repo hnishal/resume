@@ -51,7 +51,7 @@ linkedin_username: himanshu-nishal-a348a5138
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Himanshu and I'm a UG student. Data-Science and Web-development are feilds i wanna excel in.I have an ample experience in competitive-coding. I have been a part of number group projects gaining teamwork and leadership skills.  
+  Hi, my name's Himanshu and I'm a UG student. Data-Science and Web-development are fIElds I wanna excel in. I have an ample experience in competitive-coding. I have been a part of number group projects gaining teamwork and leadership skills.  
   I am most skilled in: <mark>Data-Science using R</mark> and <mark>Web-Development</mark>
 
 content:
@@ -88,7 +88,7 @@ content:
         quote: >
           This is ecommerce website
         description: | # this will include new lines to allow paragraphs
-          This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly interface
+          This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly interface. Easy to use and update.
 
   - title: Skills
     layout: text
