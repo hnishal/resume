@@ -90,12 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly frontend
 
-  - title: Skills
-    layout: text
-    content: |
-      Programming Languages  
-      - Html, css, java  
-      - C++, Python, R
+  
      
         
   - title: Education # Title for the section
@@ -122,6 +117,13 @@ content:
         sub_title: 10th Standard(CBSE)
         quote: >
           CGPA: 10
+ 
+  - title: Skills
+    layout: text
+    content: |
+      Programming Languages  
+      - Html, css, java  
+      - C++, Python, R
 
   - title: A Little More About Me
     layout: text
