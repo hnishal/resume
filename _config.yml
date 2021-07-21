@@ -90,7 +90,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly frontend
 
-  content:
   - title: Skills
     layout: list 
     content:
