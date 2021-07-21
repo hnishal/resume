@@ -94,8 +94,8 @@ content:
     layout: list 
     content:
       - layout: text
-        title: Programming Languages
         content: 
+        **Programming Languages**
         - Html, css, java  
         - C++, Python, R
         
