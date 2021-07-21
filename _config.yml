@@ -72,7 +72,7 @@ content:
         quote: >
           This is freelancing portal developed keeping in mind students
         description: | # this will include new lines to allow paragraphs
-          This project uses <mark>React</mark> and <mark>React-bootstrap</mark> for its frontend. it is a user-friendly freelancing website. This website works with No-Sql database <mark>MongoDB</mark>, backend was coded in <mark>Python</mark>
+          This project uses <mark>React</mark> and <mark>React-bootstrap</mark> for its frontend. it is a student-oriented freelancing website. This website works with No-Sql database <mark>MongoDB</mark>, backend was coded in <mark>Python</mark>
       
       - layout: top-middle
         title: ecommerce website
