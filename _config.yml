@@ -104,7 +104,7 @@ content:
         quote: >
           This is Blogging android application built using flutter and firebase
         description: | # this will include new lines to allow paragraphs
-          This project uses <mark>Flutter</mark> and <mark>Dart</mark> for its frontend. it is a Simple blog android application. This uses No-Sql database <mark>Firebase</mark>. It is dynamically updatin blog with simple UI. 
+          This project uses <mark>Flutter</mark> and <mark>Dart</mark> for its frontend. it is a Simple blog android application. This uses No-Sql database <mark>Firebase</mark>. It is dynamically updating blog with simple UI. 
       
   - title: Skills
     layout: text
