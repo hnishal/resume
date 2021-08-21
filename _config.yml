@@ -89,7 +89,23 @@ content:
           This is ecommerce website
         description: | # this will include new lines to allow paragraphs
           This is an Ecommerce website created using <mark>html</mark>, <mark>css</mark>, <mark>js</mark>, <mark>Sql</mark> and <mark>PHP</mark>. This is a simple ecommerce website with user-friendly interface. Easy to use and update.
-
+     
+      - layout: top-middle
+        title: Blog-app
+        link: https://github.com/hnishal/blog-app
+        # link_text: Project Website
+        additional_links:
+          - title:  hnishal/website
+            icon: fab fa-github
+            url: https://github.com/hnishal/blog-app
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is Blogging android application built using flutter and firebase
+        description: | # this will include new lines to allow paragraphs
+          This project uses <mark>Flutter</mark> and <mark>Dart</mark> for its frontend. it is a Simple blog android application. This website works with No-Sql database <mark>Firebase</mark>.
+      
   - title: Skills
     layout: text
     content: |
